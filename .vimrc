@@ -15,6 +15,7 @@ endfunc
 func! Save()
   exec "w"
 endfunc
+
 filetype indent on
 set autoindent
 set smartindent
